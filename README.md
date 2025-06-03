@@ -5,7 +5,7 @@ This repository contains my work for the **AWS Mastery: 26 Hands-On Projects for
 
 Each project folder includes a detailed README with objectives, steps, AWS services used, code snippets, screenshots, challenges, and lessons learned. This portfolio showcases my hands-on experience in cloud engineering, from setting up secure AWS environments to deploying serverless applications and optimizing infrastructure for scalability.
 
-🔗 **LinkedIn**: [Your LinkedIn Profile URL]  
+🔗 **LinkedIn**:(https://www.linkedin.com/in/clyle-ndombi-14959a366/) 
 🔗 **Course**: AWS Mastery: 26 Hands-On Projects for Aspiring Cloud Engineers
 
 ## About Me
@@ -125,9 +125,9 @@ To replicate these projects:
 
 ## Contact
 Feel free to reach out for collaboration or feedback:  
-📧 [Your Email]  
-🔗 [Your LinkedIn Profile URL]  
-🌐 [Your GitHub Profile URL]
+📧 clylendombikhainga@gmail.com
+🔗 https://www.linkedin.com/in/clyle-ndombi-14959a366/ 
+🌐 https://github.com/clyle342
 
 ## Acknowledgments
 - **Course**: AWS Mastery: 26 Hands-On Projects for Aspiring Cloud Engineers.
