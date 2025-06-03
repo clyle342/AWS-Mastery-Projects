@@ -18,11 +18,11 @@ Installed and configured the AWS CLI to manage S3 buckets and objects programmat
 5. **Cleaned Up**: Deleted the S3 bucket and deactivated IAM user access keys.
 
 ## Screenshots
-- [AWS CLI Version]
-- [CLI Configuration]
-- [S3 Bucket Creation]
-- [S3 File Upload]
-- [S3 Bucket Listing]
+- AWS CLI Version
+- CLI Configuration
+- S3 Bucket Creation
+- S3 File Upload
+- S3 Bucket Listing
 
 ## Code Snippets
 ```bash
